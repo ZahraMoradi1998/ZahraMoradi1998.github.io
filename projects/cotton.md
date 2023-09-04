@@ -2,13 +2,12 @@
 layout: project
 type: project
 image: img/cotton/cotton-square.png
-title: "Cotton"
-date: 2014
+title: "The Vital Importance of Data Acquisition"
+date: 
 published: true
 labels:
-  - Lisp
-  - GitHub
-summary: "A text adventure game that I developed for ICS 313."
+
+summary: "The Vital Importance of Data Acquisition."
 ---
 
 <img class="img-fluid" src="../img/cotton/cotton-header.png">
@@ -19,8 +18,7 @@ To give you a flavor of the game, here is an excerpt from one run:
 
 <hr>
 
-<!DOCTYPE html>
-<html>
+
 <head>
     <title>The Vital Importance of Data Acquisition, with Emphasis on Biosignals</title>
 </head>
@@ -29,9 +27,11 @@ To give you a flavor of the game, here is an excerpt from one run:
 
     <h2>Introduction</h2>
     <p>In today's data-driven world, the ability to acquire, process, and analyze data has become indispensable across various fields. Data acquisition, the process of collecting information from various sources, has gained significant prominence, especially in the realm of biosignals. Biosignals encompass a wide range of biological data, including electrocardiograms (ECG), electroencephalograms (EEG), electromyograms (EMG), and more. These biosignals offer a unique window into the inner workings of the human body, making their acquisition and analysis crucial for advancements in healthcare, research, and numerous other domains.</p>
+<p><strong>When I was in my bachelor's degree program, I had an experience in data recording, and it was a really important part of the work. We mustn't do any mistakes.</strong></p>
+
 
     <!-- Insert your picture here -->
-    <img src="your-image.jpg" alt="Biosignal Monitoring" width="500" height="300">
+    <img src="../img/1.jpg" alt="Biosignal Monitoring" width="500" height="300">
 
     <h2>Advancements in Healthcare</h2>
     <p>One of the most profound impacts of biosignal data acquisition is in the field of healthcare. The ability to monitor and record biosignals allows healthcare professionals to diagnose, treat, and manage a wide range of medical conditions with precision. For instance, ECGs are vital in diagnosing heart conditions such as arrhythmias and heart attacks, while EEGs help in identifying neurological disorders like epilepsy. Without the ability to acquire these biosignals accurately, timely diagnosis and treatment would be significantly compromised, potentially leading to detrimental outcomes for patients.</p>
