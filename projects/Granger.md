@@ -11,7 +11,7 @@ labels:
 summary: "Granger Causality: Analyzing Causal Relationships."
 ---
 
-<!DOCTYPE html>
+
 <html>
 <head>
     <title>Granger Causality: Analyzing Causal Relationships</title>
@@ -73,7 +73,7 @@ summary: "Granger Causality: Analyzing Causal Relationships."
 
         <p class="highlight">Granger Causality is a valuable tool in understanding the temporal relationships between variables, making it widely applied in fields such as economics, neuroscience, and environmental science.</p>
 
-        <img src="granger_causality.png" alt="Granger Causality" width="80%">
+        <img class="img-fluid" src="../img/4.png">
 
         <h2>The Granger Causality Test</h2>
         <p>The Granger Causality test involves comparing two time series, typically denoted as X and Y. It assesses whether the past values of X provide valuable information for predicting the future values of Y, beyond what can be predicted using past values of Y alone. If including the lagged values of X improves the prediction accuracy of Y, it is considered evidence of Granger causality from X to Y.</p>
