@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/2.png
 title: "The Vital Importance of Data Acquisition"
 date: 
 published: true
@@ -10,11 +10,8 @@ labels:
 summary: "The Vital Importance of Data Acquisition."
 ---
 
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
+<img class="img-fluid" src="../img/2.png">
 
-Cotton is a horror-style text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
-
-To give you a flavor of the game, here is an excerpt from one run:
 
 <hr>
 
@@ -22,6 +19,15 @@ To give you a flavor of the game, here is an excerpt from one run:
 <head>
     <title>The Vital Importance of Data Acquisition, with Emphasis on Biosignals</title>
 </head>
+
+    <style>
+        /* CSS rule to center the image horizontally */
+        .center-image {
+            display: flex;
+            justify-content: center;
+        }
+    </style>
+    
 <body>
     <h1>The Vital Importance of Data Acquisition, with Emphasis on Biosignals</h1>
 
@@ -32,6 +38,9 @@ To give you a flavor of the game, here is an excerpt from one run:
 
     <!-- Insert your picture here -->
     <img src="../img/1.jpg" alt="Biosignal Monitoring" width="500" height="300">
+       <div class="center-image">
+        <img src="../img/1.jpg" alt="Biosignal Monitoring" width="500" height="300">
+    </div>
 
     <h2>Advancements in Healthcare</h2>
     <p>One of the most profound impacts of biosignal data acquisition is in the field of healthcare. The ability to monitor and record biosignals allows healthcare professionals to diagnose, treat, and manage a wide range of medical conditions with precision. For instance, ECGs are vital in diagnosing heart conditions such as arrhythmias and heart attacks, while EEGs help in identifying neurological disorders like epilepsy. Without the ability to acquire these biosignals accurately, timely diagnosis and treatment would be significantly compromised, potentially leading to detrimental outcomes for patients.</p>
