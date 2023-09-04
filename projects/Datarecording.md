@@ -6,6 +6,7 @@ title: "The Vital Importance of Data Acquisition"
 date: 
 published: true
 labels:
+- Signal Processing
 
 summary: "The Vital Importance of Data Acquisition."
 ---
