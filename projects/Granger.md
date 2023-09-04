@@ -96,7 +96,37 @@ summary: "Granger Causality: Analyzing Causal Relationships."
         <p>Granger Causality stands as a powerful tool for uncovering causal relationships within time-series data. Its application spans diverse fields, enabling researchers to better comprehend the temporal dependencies between variables and make informed decisions based on these insights.</p>
 
         <p>As data-driven research continues to grow, Granger Causality remains a valuable asset for exploring causality in dynamic systems, shedding light on the intricate web of cause and effect that shapes our understanding of the world.</p>
+
+
+
+
+        <h2>My project</h2>
+
+    <h3>EEG Data Preprocessing with the Happe Pipeline</h3>
+    <p>The project begins with the acquisition of EEG data from 53 channels, each capturing electrical activity from different areas of the brain. To ensure the reliability and quality of the data, the Happe pipeline is employed for preprocessing. The Happe pipeline is a robust and widely used method for cleaning and preparing EEG data. It involves several steps such as noise removal, artifact correction, and referencing, all of which are essential for obtaining meaningful results in subsequent analyses.</p>
+
+    <h3>Segmentation for Volume Conductance Reduction</h3>
+    <p>One crucial aspect of this project is the division of the EEG electrodes into 12 segments. This segmentation is performed with the goal of reducing volume conduction effects. Volume conduction occurs when electrical signals from one electrode spread to neighboring electrodes, leading to the possibility of spurious connectivity in subsequent analyses. By dividing the electrodes into segments, the project aims to mitigate these effects and improve the accuracy of connectivity analysis.</p>
+     <img class="img-fluid" src="../img/6.png">
+
+    <h3>Connectivity Analysis: Granger Causality and Other Methods</h3>
+    <p>Following the preprocessing and segmentation steps, the project delves into connectivity analysis. One of the methods employed is Granger causality. Granger causality is a statistical approach used to assess the causal relationship between time series data. In the context of EEG data, it helps identify the directional influence between different brain regions. Granger causality is particularly valuable for understanding information flow and communication within the brain.</p>
+    
+    <p>In addition to Granger causality, other connectivity methods may also be utilized, depending on the specific research questions and goals of the project. Common methods include coherence analysis, phase synchronization, and cross-correlation, among others. Each of these methods provides unique insights into how different EEG channels are connected and communicate with each other.</p>
+
+    <h3>Visualization through Graph Representation</h3>
+    <p>To make sense of the complex connectivity patterns obtained from the EEG data, the project employs graph representation techniques. Graphs are a powerful tool for visualizing and analyzing network structures. In this context, each EEG channel is represented as a node in the graph, and the connections between channels are depicted as edges. This graphical representation allows researchers to intuitively grasp the network properties of the brain and identify key nodes or regions that play crucial roles in information processing.</p>
+ <img class="img-fluid" src="../img/7.jpg">
+  <img class="img-fluid" src="../img/8.png">
+  <img class="img-fluid" src="../img/9.jpg">
+
+        
     </div>
+
+
+
+
+    
 </body>
 </html>
 
