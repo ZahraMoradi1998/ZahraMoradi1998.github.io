@@ -4,7 +4,7 @@ type: project
 image: img/4.png
 title: "Granger Causality"
 date: 
-published: true
+published: false
 labels:
   - Neuroscience
   - Granger Causality
