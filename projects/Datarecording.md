@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/2.png
+image: <img class="img-fluid" src="../img/2.png" width="200" alt="Reduced Size Image">
 title: "The Vital Importance of Data Acquisition"
 date: 
 published: true
@@ -11,7 +11,7 @@ summary: "The Vital Importance of Data Acquisition."
 ---
 
 
-<img class="img-fluid" src="../img/2.png" width="200" alt="Reduced Size Image">
+<img class="img-fluid" src="../img/2.png" width="300" alt="Reduced Size Image">
 
 
 <hr>
