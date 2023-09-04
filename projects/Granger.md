@@ -77,6 +77,7 @@ summary: "Granger Causality: Analyzing Causal Relationships."
 
         <h2>The Granger Causality Test</h2>
         <p>The Granger Causality test involves comparing two time series, typically denoted as X and Y. It assesses whether the past values of X provide valuable information for predicting the future values of Y, beyond what can be predicted using past values of Y alone. If including the lagged values of X improves the prediction accuracy of Y, it is considered evidence of Granger causality from X to Y.</p>
+        <img class="img-fluid" src="../img/5.png">
 
         <p>The Granger Causality test can be performed using statistical software or programming languages like Python or R. Researchers specify the maximum lag order, and the test calculates statistical significance to determine whether Granger causality exists.</p>
 
