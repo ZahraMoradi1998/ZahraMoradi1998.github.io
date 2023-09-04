@@ -10,7 +10,8 @@ labels:
 summary: "The Vital Importance of Data Acquisition."
 ---
 
-<img class="img-fluid" src="../img/2.png">
+
+<img class="img-fluid" src="../img/2.png" width="200" alt="Reduced Size Image">
 
 
 <hr>
@@ -20,13 +21,7 @@ summary: "The Vital Importance of Data Acquisition."
     <title>The Vital Importance of Data Acquisition, with Emphasis on Biosignals</title>
 </head>
 
-    <style>
-        /* CSS rule to center the image horizontally */
-        .center-image {
-            display: flex;
-            justify-content: center;
-        }
-    </style>
+
     
 <body>
     <h1>The Vital Importance of Data Acquisition, with Emphasis on Biosignals</h1>
@@ -37,7 +32,13 @@ summary: "The Vital Importance of Data Acquisition."
 
 
     <!-- Insert your picture here -->
-    <img src="../img/1.jpg" alt="Biosignal Monitoring" width="500" height="300">
+        <style>
+        /* CSS rule to center the image horizontally */
+        .center-image {
+            display: flex;
+            justify-content: center;
+        }
+    </style>
        <div class="center-image">
         <img src="../img/1.jpg" alt="Biosignal Monitoring" width="500" height="300">
     </div>
