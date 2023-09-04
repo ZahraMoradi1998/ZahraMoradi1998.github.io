@@ -61,9 +61,9 @@ summary: "The Vital Importance of Data Acquisition."
     <h2>Conclusion</h2>
     <p>In conclusion, the ability to acquire biosignal data is of paramount importance in today's world. It touches upon every aspect of our lives, from healthcare to research, from personalized medicine to sports and fitness, and even environmental monitoring. Biosignal data acquisition empowers us to gain valuable insights into the functioning of the human body and the natural world, leading to improved health, scientific discoveries, and a better understanding of the environment. As technology continues to advance, the importance of biosignal data acquisition will only grow, further enriching our lives and expanding the frontiers of knowledge.</p>
 </body>
-</html>
+
 
 
 <hr>
 
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+
