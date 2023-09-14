@@ -1,0 +1,58 @@
+{
+  "basics": {
+    "name": "Zahra Moradi",
+    "label": "Student",
+    "picture": "https://github.com/ZahraMoradi1998.png",
+    "email": "zahramoradi.bme@gmail.com",
+    "phone": "",
+    "website": "https://ZahraMoradi1998.github.io",
+    "summary": "I am master's student in Biomedical Engineering at the Tehran University of Medical Science (TUMS).",
+    "location": { "address": "", "postalCode": "", "city": "Tehran", "countryCode": "IRN", "region": "" },
+    "profiles": [
+      { "network": "github", "username": "ZahraMoradi1998", "url": "https://github.com/ZahraMoradi1998" },
+      { "network": "linkedin", "username": "ZahraMoradi", "url": "https://www.linkedin.com/in/zahramoradi1998" }
+    ]
+  },
+  "interests": [
+    { "name": "AI" },
+    { "name": "Neuroscience" },
+    { "name": "Bio-Signal Processing" },
+    { "name": "EEG" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++", "Python"]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "Matlab", "Git/GitHub"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Tehran University of Medical Science (TUMS)",
+      "area": "Biomedical Engineering",
+      "studyType": "",
+      "startDate": "2021",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "",
+      "position": "",
+      "website": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        ]
+    },
+ 
+  ],
+  
+
+}
